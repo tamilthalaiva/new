@@ -91,12 +91,12 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url='http://t.me/sanufilterv1_bot?startgroup=true')
+            InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url='http://t.me/Lucifer_filter_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('⚓¢нαииєℓ⚓', url='https://t.me/+wYmJK4O7Di1lZWE1'),
-            InlineKeyboardButton('⚓gяσυρ⚓', url='https://t.me/sanusmovies'),
+            InlineKeyboardButton('⚔️sᴜᴘᴘᴏʀᴛ⚔️', url='https://t.me/kunjappansupportez'),
+            InlineKeyboardButton('©️ɢʀᴏᴜᴘ©️', url='https://t.me/MOVIEBRANTHANZGROUP'),
             ],[
-            InlineKeyboardButton('⚙️ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ⚙️', url='https://t.me/Malayalammoviesupport_bot'),
+            InlineKeyboardButton('⚙️ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ⚙️', url='https://t.me/kunjappansupport'),
             ],[
             InlineKeyboardButton('🥺 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😎 Aʙᴏᴜᴛ', callback_data='about'),
