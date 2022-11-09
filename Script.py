@@ -11,17 +11,17 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.2 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>ᴺᴼᵀᴱ:</b>
-- <a href='https://t.me/Lucifer_filter_bot'>ʟᴜᴄɪғᴇʀ</a> Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
-- Sᴏᴜʀᴄᴇ - <a href='https://t.me/kgf_2_movie_r'>Cʟɪᴄᴋ Mᴇ</a>
+- <a href='https://t.me/Tamilthalaiva3'>𝗧𝗮𝗺𝗶𝗹 𝗧𝗵𝗮𝗹𝗮𝗶𝘃𝗮</a> Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
+- Sᴏᴜʀᴄᴇ - <a href='https://t.me/Tamil_Thalaiva'>Cʟɪᴄᴋ Mᴇ</a>
 
 <b>Dᴇᴠs:</b>
-- <a href=https://t.me/kunjappansupportez>Tᴇᴀᴍ ᴋᴜɴᴊᴀᴘᴘᴀɴ</a>"""
+- <a href=https://t.me/tamilthalaiva4>𝗧𝗮𝗺𝗶𝗹 𝗧𝗵𝗮𝗹𝗮𝗶𝘃𝗮</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Kunjappan should have admin privillage.
+1. 𝗦𝗕 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -32,11 +32,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Kunjappan Beta Supports both url and alert inline buttons.
+- 𝗦𝗕 Beta Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Kunjappan Beta supports buttons with any telegram media type.
+2. 𝗦𝗕 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -67,7 +67,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Kunjappan Beta
+these are the extra features of 𝗦𝗕 Beta
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
